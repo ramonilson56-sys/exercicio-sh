@@ -1,0 +1,2 @@
+# exercicio sh
+calculadora.sh
